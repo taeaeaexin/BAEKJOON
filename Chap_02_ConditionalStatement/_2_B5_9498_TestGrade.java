@@ -2,7 +2,7 @@ package BAEKJOON;
 
 import java.util.Scanner;
 
-public class N9498_TestGrade {
+public class _2_B5_9498_TestGrade {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int grade = sc.nextInt();

@@ -2,7 +2,7 @@ package BAEKJOON;
 
 import java.util.Scanner;
 
-public class N2753_LeapYear {
+public class _3_B5_2753_LeapYear {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int year = sc.nextInt();

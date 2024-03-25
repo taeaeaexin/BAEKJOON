@@ -2,7 +2,7 @@ package BAEKJOON;
 
 import java.util.Scanner;
 
-public class N2884_Alarm {
+public class _5_B3_2884_Alarm {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int hour = sc.nextInt();

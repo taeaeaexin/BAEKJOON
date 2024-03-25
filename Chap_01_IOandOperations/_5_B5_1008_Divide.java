@@ -2,7 +2,7 @@
 
     import java.util.Scanner;
 
-    public class N1008_Divide {
+    public class _5_B5_1008_Divide {
         public static void main(String[] args) {
             Scanner sc = new Scanner(System.in);
             double A = sc.nextInt();
