@@ -2,7 +2,7 @@ package BAEKJOON;
 
 import java.util.Scanner;
 
-public class N11382_ThreeAdd {
+public class _11_B5_11382_ThreeAdd {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

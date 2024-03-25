@@ -2,7 +2,7 @@ package BAEKJOON;
 
 import java.util.Scanner;
 
-public class N10869_FourOperations {
+public class _6_B5_10869_FourOperations {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

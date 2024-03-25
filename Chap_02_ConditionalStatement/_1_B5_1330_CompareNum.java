@@ -2,7 +2,7 @@ package BAEKJOON;
 
 import java.util.Scanner;
 
-public class N1330_CompareNum {
+public class _1_B5_1330_CompareNum {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

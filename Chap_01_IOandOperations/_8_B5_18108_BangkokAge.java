@@ -2,7 +2,7 @@ package BAEKJOON;
 
 import java.util.Scanner;
 
-public class N18108_BangkokAge {
+public class _8_B5_18108_BangkokAge {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

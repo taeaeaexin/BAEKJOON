@@ -2,7 +2,7 @@ package BAEKJOON;
 
 import java.util.Scanner;
 
-public class N2525_OvenTimer {
+public class _6_B3_2525_OvenTimer {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int hour = sc.nextInt();

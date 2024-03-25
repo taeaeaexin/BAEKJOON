@@ -2,7 +2,7 @@ package BAEKJOON;
 
 import java.util.Scanner;
 
-public class N2525_ThreeDice {
+public class _7_B4_2480_ThreeDice {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int dice1 = sc.nextInt();
