@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e90add8b-be80-4d82-8ab9-f88d4bb91096" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Chap_06_Advanced/_01_B5_25083_Sprout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap_01_IOandOperations/_10_B3_2588_ThreeDigitsMultiple.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_01_IOandOperations/_10_B3_2588_ThreeDigitsMultiple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap_01_IOandOperations/_11_B5_11382_ThreeAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_01_IOandOperations/_11_B5_11382_ThreeAdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap_01_IOandOperations/_12_B5_10171_PrintCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_01_IOandOperations/_12_B5_10171_PrintCat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap_01_IOandOperations/_13_B5_10172_PrintDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_01_IOandOperations/_13_B5_10172_PrintDog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap_01_IOandOperations/_5_B5_1008_Divide.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_01_IOandOperations/_5_B5_1008_Divide.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap_01_IOandOperations/_6_B5_10869_FourOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_01_IOandOperations/_6_B5_10869_FourOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap_01_IOandOperations/_7_B5_10926_Surprise.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_01_IOandOperations/_7_B5_10926_Surprise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap_01_IOandOperations/_8_B5_18108_BangkokAge.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_01_IOandOperations/_8_B5_18108_BangkokAge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap_02_ConditionalStatement/_1_B5_1330_CompareNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_02_ConditionalStatement/_1_B5_1330_CompareNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap_02_ConditionalStatement/_2_B5_9498_TestGrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_02_ConditionalStatement/_2_B5_9498_TestGrade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap_02_ConditionalStatement/_3_B5_2753_LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_02_ConditionalStatement/_3_B5_2753_LeapYear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap_02_ConditionalStatement/_4_B5_14681_ChooseQuadrant.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_02_ConditionalStatement/_4_B5_14681_ChooseQuadrant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap_02_ConditionalStatement/_5_B3_2884_Alarm.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_02_ConditionalStatement/_5_B3_2884_Alarm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap_02_ConditionalStatement/_6_B3_2525_OvenTimer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_02_ConditionalStatement/_6_B3_2525_OvenTimer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap_02_ConditionalStatement/_7_B4_2480_ThreeDice.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_02_ConditionalStatement/_7_B4_2480_ThreeDice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap_03_Loop/_1_B5_2739_Multiple.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_03_Loop/_1_B5_2739_Multiple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap_03_Loop/_4_B5_10950_ForPlus.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_03_Loop/_4_B5_10950_ForPlus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap_04_OneDimensionArray/_2_B5_10871_NumSmallX.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_04_OneDimensionArray/_2_B5_10871_NumSmallX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="e90add8b-be80-4d82-8ab9-f88d4bb91096" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,30 +34,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application._01_B5_25083_Sprout.executor": "Run",
-    "Application._07_B3_5597_Assignment.executor": "Run",
-    "Application._08_B2_10811_FliptheBasket.executor": "Run",
-    "Application._08_B2_3052_Remainder.executor": "Run",
-    "Application._10_B1_1546_Average.executor": "Run",
-    "Application._2_B5_10871_NumSmallX.executor": "Run",
-    "Application.test.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Computer",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application._01_B5_25083_Sprout.executor&quot;: &quot;Run&quot;,
+    &quot;Application._01_B5_27866_StrandString.executor&quot;: &quot;Run&quot;,
+    &quot;Application._02_B5_2743_wordLength.executor&quot;: &quot;Run&quot;,
+    &quot;Application._03_B5_9086_string.executor&quot;: &quot;Run&quot;,
+    &quot;Application._04_B5_11654_AscIICode.executor&quot;: &quot;Run&quot;,
+    &quot;Application._05_B4_11720_sumOfNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application._06_B2_10809_findAlphabet.executor&quot;: &quot;Run&quot;,
+    &quot;Application._07_B3_5597_Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Application._08_B2_10811_FliptheBasket.executor&quot;: &quot;Run&quot;,
+    &quot;Application._08_B2_3052_Remainder.executor&quot;: &quot;Run&quot;,
+    &quot;Application._10_B1_1546_Average.executor&quot;: &quot;Run&quot;,
+    &quot;Application._2_B5_10871_NumSmallX.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Notebook&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kjk06/OneDrive/바탕 화면/GitHub/BAEKJOON&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -94,6 +78,15 @@
       <workItem from="1711357916443" duration="967000" />
       <workItem from="1711369782731" duration="9000" />
       <workItem from="1711370321741" duration="1484000" />
+      <workItem from="1711425791370" duration="8000" />
+      <workItem from="1711425813338" duration="289000" />
+      <workItem from="1711431739133" duration="28000" />
+      <workItem from="1711438906918" duration="437000" />
+      <workItem from="1711439436145" duration="2089000" />
+      <workItem from="1711441631028" duration="601000" />
+      <workItem from="1711442659798" duration="843000" />
+      <workItem from="1711540850205" duration="598000" />
+      <workItem from="1711543134394" duration="31000" />
     </task>
     <servers />
   </component>
