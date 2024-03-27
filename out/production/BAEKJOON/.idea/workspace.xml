@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e90add8b-be80-4d82-8ab9-f88d4bb91096" name="Changes" comment="">
-
-      <change afterPath="$PROJECT_DIR$/Chap_05_String/_01_B5_27866_strAndString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap_05_String/_02_B5_2743_wordLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap_05_String/_03_B5_9086_string.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap_05_String/_04_B5_11654_AscIICode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap_05_String/_05_B4_11720_sumOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap_05_String/_06_B2_10809_findAlphabet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap_05_String/_07_B2_2675_loopString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap_05_String/_08_B2_1152_numberOfWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap_05_String/_09_B2_2908_constant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap_05_String/_10_B2_5622_dial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap_05_String/_11_B3_11718_printAsIs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/.idea/workspace.xml" afterDir="false" />
-
+      <change beforePath="$PROJECT_DIR$/Chap_05_String/_07_B2_2675_loopString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_05_String/_07_B2_2675_loopString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -50,46 +37,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application._01_B5_25083_Sprout.executor&quot;: &quot;Run&quot;,
-    &quot;Application._01_B5_27866_StrandString.executor&quot;: &quot;Run&quot;,
-    &quot;Application._02_B5_2743_wordLength.executor&quot;: &quot;Run&quot;,
-    &quot;Application._03_B5_9086_string.executor&quot;: &quot;Run&quot;,
-    &quot;Application._04_B5_11654_AscIICode.executor&quot;: &quot;Run&quot;,
-    &quot;Application._05_B4_11720_sumOfNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application._07_B3_5597_Assignment.executor&quot;: &quot;Run&quot;,
-    &quot;Application._08_B2_10811_FliptheBasket.executor&quot;: &quot;Run&quot;,
-    &quot;Application._08_B2_3052_Remainder.executor&quot;: &quot;Run&quot;,
-    &quot;Application._10_B1_1546_Average.executor&quot;: &quot;Run&quot;,
-    &quot;Application._2_B5_10871_NumSmallX.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Notebook&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/kjk06/OneDrive/바탕 화면/GitHub/BAEKJOON&quot;,
-
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application._01_B5_25083_Sprout.executor": "Run",
+    "Application._01_B5_27866_StrandString.executor": "Run",
+    "Application._02_B5_2743_wordLength.executor": "Run",
+    "Application._03_B5_9086_string.executor": "Run",
+    "Application._04_B5_11654_AscIICode.executor": "Run",
+    "Application._05_B4_11720_sumOfNumber.executor": "Run",
+    "Application._06_B2_10809_findAlphabet.executor": "Run",
+    "Application._07_B3_5597_Assignment.executor": "Run",
+    "Application._08_B2_10811_FliptheBasket.executor": "Run",
+    "Application._08_B2_3052_Remainder.executor": "Run",
+    "Application._10_B1_1546_Average.executor": "Run",
+    "Application._2_B5_10871_NumSmallX.executor": "Run",
+    "Application.test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Computer",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/kjk06/OneDrive/바탕 화면/GitHub/BAEKJOON",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-1.8.0_402-temurin-1.8.0_402-4caba194b151-d4a4326d" />
-      </set>
-    </attachedChunks>
-  </component>
-
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -109,7 +87,10 @@
       <workItem from="1711438906918" duration="437000" />
       <workItem from="1711439436145" duration="2089000" />
       <workItem from="1711441631028" duration="601000" />
-      <workItem from="1711442659798" duration="389000" />
+      <workItem from="1711442659798" duration="843000" />
+      <workItem from="1711540850205" duration="598000" />
+      <workItem from="1711543134394" duration="31000" />
+      <workItem from="1711543609367" duration="159000" />
     </task>
     <servers />
   </component>
