@@ -83,7 +83,7 @@
     "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -124,6 +124,7 @@
       <workItem from="1711673775286" duration="60000" />
       <workItem from="1711673972771" duration="41000" />
       <workItem from="1711694173313" duration="1380000" />
+
     </task>
     <servers />
   </component>
