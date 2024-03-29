@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e90add8b-be80-4d82-8ab9-f88d4bb91096" name="Changes" comment="" />
+    <list default="true" id="e90add8b-be80-4d82-8ab9-f88d4bb91096" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Chap_06_TwoDimensionalArray/_01_B3_2738_matrixAddition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,6 +119,8 @@
       <workItem from="1711631775608" duration="3194000" />
       <workItem from="1711673253490" duration="106000" />
       <workItem from="1711673775286" duration="60000" />
+      <workItem from="1711673972771" duration="41000" />
+      <workItem from="1711694173313" duration="1018000" />
     </task>
     <servers />
   </component>
