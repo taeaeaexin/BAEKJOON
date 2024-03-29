@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e90add8b-be80-4d82-8ab9-f88d4bb91096" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap_06_Advanced/_07_S5_1316_groupWordChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_06_Advanced/_07_S5_1316_groupWordChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap_06_Advanced/_08_B5_YourGrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_06_Advanced/_08_B5_YourGrade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/Chap_06_Advanced/_06_S1_2941_CroatiaAlphabet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/Chap_06_Advanced/_06_S1_2941_CroatiaAlphabet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/Chap_06_Advanced/_07_S5_1316_groupWordChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/Chap_06_Advanced/_07_S5_1316_groupWordChecker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/Chap_06_Advanced/_08_B5_YourGrade.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/Chap_06_Advanced/_08_B5_YourGrade.class" afterDir="false" />
-    </list>
+    <list default="true" id="e90add8b-be80-4d82-8ab9-f88d4bb91096" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,6 +64,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "Computer",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/kjk06/OneDrive/바탕 화면/GitHub/BAEKJOON",
     "node.js.detected.package.eslint": "true",
@@ -114,6 +107,7 @@
       <workItem from="1711617620991" duration="5678000" />
       <workItem from="1711631086059" duration="646000" />
       <workItem from="1711631775608" duration="3194000" />
+      <workItem from="1711673253490" duration="106000" />
     </task>
     <servers />
   </component>
