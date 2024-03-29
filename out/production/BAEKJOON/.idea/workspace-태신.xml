@@ -5,10 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e90add8b-be80-4d82-8ab9-f88d4bb91096" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Chap_06_TwoDimensionalArray/_01_B3_2738_matrixAddition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap_06_TwoDimensionalArray/_02_B3_2566_maximumValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chap_06_Advanced/_02_B5_3003_kingQueenLookBishopKnightPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chap_06_Advanced/_03_B3_printStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chap_06_Advanced/_04_B3_10988_checkPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chap_06_Advanced/_05_B1_1157_studyWord_HARD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chap_06_Advanced/_06_S1_2941_CroatiaAlphabet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chap_06_Advanced/_07_S5_1316_groupWordChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chap_06_Advanced/_08_B5_YourGrade.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chap_05_String/_08_B2_1152_numberOfWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_05_String/_08_B2_1152_numberOfWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chap_05_String/_09_B2_2908_constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_05_String/_09_B2_2908_constant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chap_05_String/_10_B2_5622_dial.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_05_String/_10_B2_5622_dial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chap_05_String/_11_B3_11718_printAsIs.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_05_String/_11_B3_11718_printAsIs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/Chap_05_String/_08_B2_1152_numberOfWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/Chap_05_String/_08_B2_1152_numberOfWord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/Chap_05_String/_09_B2_2908_constant.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/Chap_05_String/_09_B2_2908_constant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/Chap_05_String/_10_B2_5622_dial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/Chap_05_String/_10_B2_5622_dial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/Chap_05_String/_11_B3_11718_printAsIs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/Chap_05_String/_11_B3_11718_printAsIs.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +54,6 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application._01_B3_2738_matrixAddition.executor": "Run",
     "Application._01_B5_25083_Sprout.executor": "Run",
     "Application._01_B5_27866_StrandString.executor": "Run",
     "Application._02_B5_2743_wordLength.executor": "Run",
@@ -56,11 +68,9 @@
     "Application._06_S1_2941_CroatiaAlphabet.executor": "Run",
     "Application._07_B2_2675_loopString.executor": "Run",
     "Application._07_B3_5597_Assignment.executor": "Run",
-    "Application._07_S5_1316_groupWordChecker.executor": "Run",
     "Application._08_B2_10811_FliptheBasket.executor": "Run",
     "Application._08_B2_1152_numberOfWord.executor": "Run",
     "Application._08_B2_3052_Remainder.executor": "Run",
-    "Application._08_B5_YourGrade.executor": "Run",
     "Application._09_B2_2908_constant.executor": "Run",
     "Application._10_B1_1546_Average.executor": "Run",
     "Application._10_B2_5622_dial.executor": "Run",
@@ -70,7 +80,6 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "Computer",
-    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/kjk06/OneDrive/바탕 화면/GitHub/BAEKJOON",
     "node.js.detected.package.eslint": "true",
@@ -83,7 +92,7 @@
     "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -118,13 +127,6 @@
       <workItem from="1711611450375" duration="6059000" />
       <workItem from="1711617563619" duration="43000" />
       <workItem from="1711617620991" duration="5678000" />
-      <workItem from="1711631086059" duration="646000" />
-      <workItem from="1711631775608" duration="3194000" />
-      <workItem from="1711673253490" duration="106000" />
-      <workItem from="1711673775286" duration="60000" />
-      <workItem from="1711673972771" duration="41000" />
-      <workItem from="1711694173313" duration="1380000" />
-
     </task>
     <servers />
   </component>

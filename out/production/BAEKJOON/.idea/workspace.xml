@@ -5,23 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e90add8b-be80-4d82-8ab9-f88d4bb91096" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Chap_06_Advanced/_02_B5_3003_kingQueenLookBishopKnightPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap_06_Advanced/_03_B3_printStar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap_06_Advanced/_04_B3_10988_checkPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap_06_Advanced/_05_B1_1157_studyWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap_06_Advanced/_06_S1_2941_CroatiaAlphabet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap_06_Advanced/_07_S5_1316_groupWordChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap_06_Advanced/_08_B5_YourGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chap_06_TwoDimensionalArray/_01_B3_2738_matrixAddition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap_05_String/_08_B2_1152_numberOfWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_05_String/_08_B2_1152_numberOfWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap_05_String/_09_B2_2908_constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_05_String/_09_B2_2908_constant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap_05_String/_10_B2_5622_dial.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_05_String/_10_B2_5622_dial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap_05_String/_11_B3_11718_printAsIs.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_05_String/_11_B3_11718_printAsIs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/Chap_05_String/_08_B2_1152_numberOfWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/Chap_05_String/_08_B2_1152_numberOfWord.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/Chap_05_String/_09_B2_2908_constant.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/Chap_05_String/_09_B2_2908_constant.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/Chap_05_String/_10_B2_5622_dial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/Chap_05_String/_10_B2_5622_dial.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/Chap_05_String/_11_B3_11718_printAsIs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/Chap_05_String/_11_B3_11718_printAsIs.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,13 +47,17 @@
     &quot;Application._03_B5_9086_string.executor&quot;: &quot;Run&quot;,
     &quot;Application._04_B3_10988_checkPalindrome.executor&quot;: &quot;Run&quot;,
     &quot;Application._04_B5_11654_AscIICode.executor&quot;: &quot;Run&quot;,
+    &quot;Application._05_B1_1157_studyWord.executor&quot;: &quot;Run&quot;,
     &quot;Application._05_B4_11720_sumOfNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application._06_B2_10809_findAlphabet.executor&quot;: &quot;Run&quot;,
+    &quot;Application._06_S1_2941_CroatiaAlphabet.executor&quot;: &quot;Run&quot;,
     &quot;Application._07_B2_2675_loopString.executor&quot;: &quot;Run&quot;,
     &quot;Application._07_B3_5597_Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Application._07_S5_1316_groupWordChecker.executor&quot;: &quot;Run&quot;,
     &quot;Application._08_B2_10811_FliptheBasket.executor&quot;: &quot;Run&quot;,
     &quot;Application._08_B2_1152_numberOfWord.executor&quot;: &quot;Run&quot;,
     &quot;Application._08_B2_3052_Remainder.executor&quot;: &quot;Run&quot;,
+    &quot;Application._08_B5_YourGrade.executor&quot;: &quot;Run&quot;,
     &quot;Application._09_B2_2908_constant.executor&quot;: &quot;Run&quot;,
     &quot;Application._10_B1_1546_Average.executor&quot;: &quot;Run&quot;,
     &quot;Application._10_B2_5622_dial.executor&quot;: &quot;Run&quot;,
@@ -78,6 +67,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;Computer&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/kjk06/OneDrive/바탕 화면/GitHub/BAEKJOON&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -124,7 +114,13 @@
       <workItem from="1711601879237" duration="581000" />
       <workItem from="1711611450375" duration="6059000" />
       <workItem from="1711617563619" duration="43000" />
-      <workItem from="1711617620991" duration="6000" />
+      <workItem from="1711617620991" duration="5678000" />
+      <workItem from="1711631086059" duration="646000" />
+      <workItem from="1711631775608" duration="3194000" />
+      <workItem from="1711673253490" duration="106000" />
+      <workItem from="1711673775286" duration="60000" />
+      <workItem from="1711673972771" duration="41000" />
+      <workItem from="1711694173313" duration="1018000" />
     </task>
     <servers />
   </component>

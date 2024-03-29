@@ -6,24 +6,32 @@ public class _07_S5_1316_groupWordChecker {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
-        boolean f = true;
+        int count3 = 0;
 
         for (int i = 0; i < N; i++) {
             String str = sc.next();
-            char arr[] = new char[str.length()];
-            for (int j = 0; j < str.length(); j++)
-                arr[i] = str.charAt(i);
+            int arr[] = new int[26];
+            int count = 1;
+            int count2 = 0;
 
             for (int j = 0; j < str.length(); j++) {
-                if (j < str.length() - 1) {
-                    for (int k = j + 1; k < str.length(); k++) {
-                        if (f == true && arr[j] == arr[k])
+                if (j < str.length() - 1 && str.charAt(j) != str.charAt(j + 1))
+                    count++;
 
-                    }
-                }
-
+                arr[(int) str.charAt(j) - 'a'] = 1;
             }
 
+            for (int j = 0; j < arr.length; j++)
+                count2 += arr[j];
+
+            if (count == count2)
+                count3++;
         }
+        sc.close();
+        System.out.println(count3);
     }
+
 }
+
+
+
