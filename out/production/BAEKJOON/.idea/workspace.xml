@@ -1,27 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="8d0b4cc0-6e2f-43eb-81f6-3c72e614da76" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Chap_06_TwoDimensionalArray/_03_B1_10798_verticalReading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap_06_TwoDimensionalArray/_04_B5_2563_colorPaper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chap_06_TwoDimensionalArray/_02_B3_2566_maximumValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_06_TwoDimensionalArray/_02_B3_2566_maximumValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/Chap_06_TwoDimensionalArray/_02_B3_2566_maximumValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/Chap_06_TwoDimensionalArray/_02_B3_2566_maximumValue.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,9 +21,6 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2eM6Ag7aDnjHJb9cJcxzQQkQIpy" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,18 +28,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application._01_B3_2738_matrixAddition.executor": "Run",
-    "Application._02_B3_2566_maximumValue.executor": "Run",
-    "Application._03_B1_10798_verticalReading.executor": "Run",
-    "Application._04_B5_2563_colorPaper.executor": "Run",
     "Application._4_B5_10950_ForPlus.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "Notebook",
     "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -76,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711701957458</updated>
       <workItem from="1711701958634" duration="73000" />
-      <workItem from="1711702451795" duration="5381000" />
+      <workItem from="1711702451795" duration="269000" />
     </task>
     <servers />
   </component>
