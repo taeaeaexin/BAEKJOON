@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e90add8b-be80-4d82-8ab9-f88d4bb91096" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap_06_Advanced/_07_S5_1316_groupWordChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_06_Advanced/_07_S5_1316_groupWordChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e90add8b-be80-4d82-8ab9-f88d4bb91096" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,9 +50,11 @@
     &quot;Application._06_S1_2941_CroatiaAlphabet.executor&quot;: &quot;Run&quot;,
     &quot;Application._07_B2_2675_loopString.executor&quot;: &quot;Run&quot;,
     &quot;Application._07_B3_5597_Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Application._07_S5_1316_groupWordChecker.executor&quot;: &quot;Run&quot;,
     &quot;Application._08_B2_10811_FliptheBasket.executor&quot;: &quot;Run&quot;,
     &quot;Application._08_B2_1152_numberOfWord.executor&quot;: &quot;Run&quot;,
     &quot;Application._08_B2_3052_Remainder.executor&quot;: &quot;Run&quot;,
+    &quot;Application._08_B5_YourGrade.executor&quot;: &quot;Run&quot;,
     &quot;Application._09_B2_2908_constant.executor&quot;: &quot;Run&quot;,
     &quot;Application._10_B1_1546_Average.executor&quot;: &quot;Run&quot;,
     &quot;Application._10_B2_5622_dial.executor&quot;: &quot;Run&quot;,
@@ -66,6 +64,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;Computer&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/kjk06/OneDrive/바탕 화면/GitHub/BAEKJOON&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -79,6 +78,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-temurin-1.8.0_402-4caba194b151-d4a4326d" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -107,7 +113,9 @@
       <workItem from="1711617563619" duration="43000" />
       <workItem from="1711617620991" duration="5678000" />
       <workItem from="1711631086059" duration="646000" />
-      <workItem from="1711631775608" duration="1307000" />
+      <workItem from="1711631775608" duration="3194000" />
+      <workItem from="1711673253490" duration="106000" />
+      <workItem from="1711673775286" duration="60000" />
     </task>
     <servers />
   </component>
