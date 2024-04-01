@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e90add8b-be80-4d82-8ab9-f88d4bb91096" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Chap_07_TwoDimensionalArray/_03_B1_10798_verticalReading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap_07_TwoDimensionalArray/_04_S5_2563_colorPaper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap_08_GeneralMath/_01_B2_2745_baseConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap_08_GeneralMath/_02_B1_11005_baseConversion2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap_08_GeneralMath/_03_B3_2720_laundryOwner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap_08_GeneralMath/_04_B3_2903_centerMovementAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap_08_GeneralMath/_05_B2_2292_honeycomb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap_08_GeneralMath/_06_S5_1193_findTheFountain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap_08_GeneralMath/_07_B1_2869_snail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap_06_TwoDimensionalArray/_01_B3_2738_matrixAddition.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_07_TwoDimensionalArray/_01_B3_2738_matrixAddition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap_06_TwoDimensionalArray/_02_B3_2566_maximumValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_07_TwoDimensionalArray/_02_B3_2566_maximumValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e90add8b-be80-4d82-8ab9-f88d4bb91096" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,54 +34,54 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application._01_B2_2745_baseConversion.executor": "Run",
-    "Application._01_B3_2738_matrixAddition.executor": "Run",
-    "Application._01_B5_25083_Sprout.executor": "Run",
-    "Application._01_B5_27866_StrandString.executor": "Run",
-    "Application._02_B5_2743_wordLength.executor": "Run",
-    "Application._02_B5_3003_kingQueenLookBishopKnightPhone.executor": "Run",
-    "Application._03_B1_10798_verticalReading.executor": "Run",
-    "Application._03_B3_printStar.executor": "Run",
-    "Application._03_B5_9086_string.executor": "Run",
-    "Application._04_B3_10988_checkPalindrome.executor": "Run",
-    "Application._04_B5_11654_AscIICode.executor": "Run",
-    "Application._04_S5_2563_colorPaper.executor": "Run",
-    "Application._05_B1_1157_studyWord.executor": "Run",
-    "Application._05_B4_11720_sumOfNumber.executor": "Run",
-    "Application._06_B2_10809_findAlphabet.executor": "Run",
-    "Application._06_S1_2941_CroatiaAlphabet.executor": "Run",
-    "Application._07_B2_2675_loopString.executor": "Run",
-    "Application._07_B3_5597_Assignment.executor": "Run",
-    "Application._07_S5_1316_groupWordChecker.executor": "Run",
-    "Application._08_B2_10811_FliptheBasket.executor": "Run",
-    "Application._08_B2_1152_numberOfWord.executor": "Run",
-    "Application._08_B2_3052_Remainder.executor": "Run",
-    "Application._08_B5_YourGrade.executor": "Run",
-    "Application._09_B2_2908_constant.executor": "Run",
-    "Application._10_B1_1546_Average.executor": "Run",
-    "Application._10_B2_5622_dial.executor": "Run",
-    "Application._11_B3_11718_printAsIs.executor": "Run",
-    "Application._2_B5_10871_NumSmallX.executor": "Run",
-    "Application.test.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Computer",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/kjk06/OneDrive/바탕 화면/GitHub/BAEKJOON",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application._01_B2_2745_baseConversion.executor&quot;: &quot;Run&quot;,
+    &quot;Application._01_B3_2738_matrixAddition.executor&quot;: &quot;Run&quot;,
+    &quot;Application._01_B5_25083_Sprout.executor&quot;: &quot;Run&quot;,
+    &quot;Application._01_B5_27866_StrandString.executor&quot;: &quot;Run&quot;,
+    &quot;Application._02_B5_2743_wordLength.executor&quot;: &quot;Run&quot;,
+    &quot;Application._02_B5_3003_kingQueenLookBishopKnightPhone.executor&quot;: &quot;Run&quot;,
+    &quot;Application._03_B1_10798_verticalReading.executor&quot;: &quot;Run&quot;,
+    &quot;Application._03_B3_printStar.executor&quot;: &quot;Run&quot;,
+    &quot;Application._03_B5_9086_string.executor&quot;: &quot;Run&quot;,
+    &quot;Application._04_B3_10988_checkPalindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application._04_B5_11654_AscIICode.executor&quot;: &quot;Run&quot;,
+    &quot;Application._04_S5_2563_colorPaper.executor&quot;: &quot;Run&quot;,
+    &quot;Application._05_B1_1157_studyWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application._05_B4_11720_sumOfNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application._06_B2_10809_findAlphabet.executor&quot;: &quot;Run&quot;,
+    &quot;Application._06_S1_2941_CroatiaAlphabet.executor&quot;: &quot;Run&quot;,
+    &quot;Application._07_B2_2675_loopString.executor&quot;: &quot;Run&quot;,
+    &quot;Application._07_B3_5597_Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Application._07_S5_1316_groupWordChecker.executor&quot;: &quot;Run&quot;,
+    &quot;Application._08_B2_10811_FliptheBasket.executor&quot;: &quot;Run&quot;,
+    &quot;Application._08_B2_1152_numberOfWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application._08_B2_3052_Remainder.executor&quot;: &quot;Run&quot;,
+    &quot;Application._08_B5_YourGrade.executor&quot;: &quot;Run&quot;,
+    &quot;Application._09_B2_2908_constant.executor&quot;: &quot;Run&quot;,
+    &quot;Application._10_B1_1546_Average.executor&quot;: &quot;Run&quot;,
+    &quot;Application._10_B2_5622_dial.executor&quot;: &quot;Run&quot;,
+    &quot;Application._11_B3_11718_printAsIs.executor&quot;: &quot;Run&quot;,
+    &quot;Application._2_B5_10871_NumSmallX.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Computer&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kjk06/OneDrive/바탕 화면/GitHub/BAEKJOON&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -132,6 +116,7 @@
       <workItem from="1711673972771" duration="41000" />
       <workItem from="1711694173313" duration="1380000" />
       <workItem from="1711953384148" duration="8006000" />
+      <workItem from="1711982444135" duration="7000" />
     </task>
     <servers />
   </component>
