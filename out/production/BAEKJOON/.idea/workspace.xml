@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d0b4cc0-6e2f-43eb-81f6-3c72e614da76" name="Changes" comment="">
+    <list default="true" id="f06d946f-5d73-4bd7-86d0-86839a1bcecc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/BAEKJOON/Chap_06_TwoDimensionalArray/_02_B3_2566_maximumValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BAEKJOON/Chap_06_TwoDimensionalArray/_03_B1_10798_verticalReading.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BAEKJOON/Chap_06_TwoDimensionalArray/_04_B5_2563_colorPaper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/BAEKJOON.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace-태신.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap_06_TwoDimensionalArray/_02_B3_2566_maximumValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_06_TwoDimensionalArray/_02_B3_2566_maximumValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAEKJOON.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BAEKJOON.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chap_07_TwoDimensionalArray/_02_B3_2566_maximumValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_07_TwoDimensionalArray/_02_B3_2566_maximumValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chap_07_TwoDimensionalArray/_03_B1_10798_verticalReading.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_07_TwoDimensionalArray/_03_B1_10798_verticalReading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chap_07_TwoDimensionalArray/_04_B5_2563_colorPaper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_07_TwoDimensionalArray/_04_B5_2563_colorPaper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/.idea/BAEKJOON.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BAEKJOON.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BAEKJOON.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/Chap_06_TwoDimensionalArray/_01_B3_2738_matrixAddition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/Chap_06_TwoDimensionalArray/_01_B3_2738_matrixAddition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,44 +37,34 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 5
-}</component>
-  <component name="ProjectId" id="2eM6Ag7aDnjHJb9cJcxzQQkQIpy" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2eVHGJMprRfchPUV67p1Hn4cmXq" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application._01_B3_2738_matrixAddition.executor": "Run",
-    "Application._4_B5_10950_ForPlus.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Notebook",
+    "git-widget-placeholder": "Merging Computer",
     "kotlin-language-version-configured": "true",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-1.8.0_402-temurin-1.8.0_402-4caba194b151-d4a4326d" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8d0b4cc0-6e2f-43eb-81f6-3c72e614da76" name="Changes" comment="" />
-      <created>1711701957458</created>
+      <changelist id="f06d946f-5d73-4bd7-86d0-86839a1bcecc" name="Changes" comment="" />
+      <created>1711982728698</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1711701957458</updated>
-      <workItem from="1711701958634" duration="73000" />
-      <workItem from="1711702451795" duration="269000" />
+      <updated>1711982728698</updated>
+      <workItem from="1711982732463" duration="36000" />
     </task>
     <servers />
   </component>
