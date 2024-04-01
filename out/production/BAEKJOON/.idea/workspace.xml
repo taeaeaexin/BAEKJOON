@@ -1,26 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="e90add8b-be80-4d82-8ab9-f88d4bb91096" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/Chap_07_TwoDimensionalArray/_03_B1_10798_verticalReading.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chap_06_TwoDimensionalArray/_01_B3_2738_matrixAddition.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_07_TwoDimensionalArray/_01_B3_2738_matrixAddition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chap_06_TwoDimensionalArray/_02_B3_2566_maximumValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_07_TwoDimensionalArray/_02_B3_2566_maximumValue.java" afterDir="false" />
+=======
+    <list default="true" id="8d0b4cc0-6e2f-43eb-81f6-3c72e614da76" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chap_06_TwoDimensionalArray/_02_B3_2566_maximumValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_06_TwoDimensionalArray/_02_B3_2566_maximumValue.java" afterDir="false" />
+>>>>>>> main
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,16 +25,15 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
 }</component>
-  <component name="ProjectId" id="2eAW8wxVHJKuhKoHzhahvq0ppdT" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2eM6Ag7aDnjHJb9cJcxzQQkQIpy" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application._01_B3_2738_matrixAddition.executor&quot;: &quot;Run&quot;,
@@ -84,13 +79,35 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application._01_B3_2738_matrixAddition.executor": "Run",
+    "Application._4_B5_10950_ForPlus.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Notebook",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-temurin-1.8.0_402-4caba194b151-d4a4326d" />
+      </set>
+    </attachedChunks>
+  </component>
+>>>>>>> main
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e90add8b-be80-4d82-8ab9-f88d4bb91096" name="Changes" comment="" />
-      <created>1711347707638</created>
+      <changelist id="8d0b4cc0-6e2f-43eb-81f6-3c72e614da76" name="Changes" comment="" />
+      <created>1711701957458</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
+<<<<<<< HEAD
       <updated>1711347707638</updated>
       <workItem from="1711347710750" duration="7912000" />
       <workItem from="1711355799584" duration="1409000" />
@@ -118,20 +135,15 @@
       <workItem from="1711673972771" duration="41000" />
       <workItem from="1711694173313" duration="1380000" />
       <workItem from="1711953384148" duration="1959000" />
+=======
+      <updated>1711701957458</updated>
+      <workItem from="1711701958634" duration="73000" />
+      <workItem from="1711702451795" duration="269000" />
+>>>>>>> main
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
-          <option name="timeStamp" value="1" />
-        </breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
