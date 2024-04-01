@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e90add8b-be80-4d82-8ab9-f88d4bb91096" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Chap_06_TwoDimensionalArray/_01_B3_2738_matrixAddition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chap_07_TwoDimensionalArray/_03_B1_10798_verticalReading.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chap_06_TwoDimensionalArray/_01_B3_2738_matrixAddition.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_07_TwoDimensionalArray/_01_B3_2738_matrixAddition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chap_06_TwoDimensionalArray/_02_B3_2566_maximumValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_07_TwoDimensionalArray/_02_B3_2566_maximumValue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +41,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application._01_B3_2738_matrixAddition.executor&quot;: &quot;Run&quot;,
     &quot;Application._01_B5_25083_Sprout.executor&quot;: &quot;Run&quot;,
     &quot;Application._01_B5_27866_StrandString.executor&quot;: &quot;Run&quot;,
     &quot;Application._02_B5_2743_wordLength.executor&quot;: &quot;Run&quot;,
@@ -81,13 +84,6 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-1.8.0_402-temurin-1.8.0_402-4caba194b151-d4a4326d" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -120,7 +116,8 @@
       <workItem from="1711673253490" duration="106000" />
       <workItem from="1711673775286" duration="60000" />
       <workItem from="1711673972771" duration="41000" />
-      <workItem from="1711694173313" duration="1018000" />
+      <workItem from="1711694173313" duration="1380000" />
+      <workItem from="1711953384148" duration="1959000" />
     </task>
     <servers />
   </component>
