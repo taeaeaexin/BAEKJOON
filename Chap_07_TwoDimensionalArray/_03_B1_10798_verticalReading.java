@@ -1,8 +1,4 @@
-<<<<<<< HEAD:Chap_07_TwoDimensionalArray/_03_B1_10798_verticalReading.java
 package Chap_07_TwoDimensionalArray;
-=======
-package Chap_06_TwoDimensionalArray;
->>>>>>> main:Chap_06_TwoDimensionalArray/_03_B1_10798_verticalReading.java
 
 import java.util.Scanner;
 
@@ -29,7 +25,3 @@ public class _03_B1_10798_verticalReading {
 
     }
 }
-<<<<<<< HEAD:Chap_07_TwoDimensionalArray/_03_B1_10798_verticalReading.java
-
-=======
->>>>>>> main:Chap_06_TwoDimensionalArray/_03_B1_10798_verticalReading.java
