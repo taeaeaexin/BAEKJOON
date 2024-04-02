@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f06d946f-5d73-4bd7-86d0-86839a1bcecc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap_08_GeneralMath/_01_B2_2745_baseConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_08_GeneralMath/_01_B2_2745_baseConversion.java" afterDir="false" />
+    <list default="true" id="ffef4112-9616-43b3-83ac-a65f0a8cf5ed" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Chap_08_GeneralMath/_02_B1_11005_baseConversion2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_08_GeneralMath/_02_B1_11005_baseConversion2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,22 +15,21 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 5
-}</component>
-  <component name="ProjectId" id="2eVHGJMprRfchPUV67p1Hn4cmXq" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2eXK3VAN6tqNnns4i5l74tbkqMX" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application._01_B2_2745_baseConversion.executor": "Run",
-    "Application._03_B1_10798_verticalReading.executor": "Run",
+    "Application._02_B1_11005_baseConversion2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Notebook",
     "kotlin-language-version-configured": "true",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
@@ -47,14 +45,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f06d946f-5d73-4bd7-86d0-86839a1bcecc" name="Changes" comment="" />
-      <created>1711982728698</created>
+      <changelist id="ffef4112-9616-43b3-83ac-a65f0a8cf5ed" name="Changes" comment="" />
+      <created>1712045284828</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1711982728698</updated>
-      <workItem from="1711982732463" duration="36000" />
-      <workItem from="1711982874346" duration="82000" />
-      <workItem from="1712043790086" duration="34000" />
+      <updated>1712045284828</updated>
+      <workItem from="1712045288771" duration="19000" />
     </task>
     <servers />
   </component>
