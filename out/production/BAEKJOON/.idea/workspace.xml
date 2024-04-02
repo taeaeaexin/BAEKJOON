@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffef4112-9616-43b3-83ac-a65f0a8cf5ed" name="Changes" comment="">
+    <list default="true" id="e73bd0ec-3494-4dff-9a88-9c5377cafe32" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chap_08_GeneralMath/_02_B1_11005_baseConversion2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_08_GeneralMath/_02_B1_11005_baseConversion2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/Chap_08_GeneralMath/_02_B1_11005_baseConversion2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/Chap_08_GeneralMath/_02_B1_11005_baseConversion2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,41 +22,41 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
   "associatedIndex": 5
 }]]></component>
-  <component name="ProjectId" id="2eXK3VAN6tqNnns4i5l74tbkqMX" />
+  <component name="ProjectId" id="2eXNE7HxyZww3pznBpJTwcx4Ngu" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Unnamed.executor": "Run",
+    "Application._01_B2_2745_baseConversion.executor": "Run",
     "Application._02_B1_11005_baseConversion2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "Notebook",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-1.8.0_402-temurin-1.8.0_402-4caba194b151-d4a4326d" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ffef4112-9616-43b3-83ac-a65f0a8cf5ed" name="Changes" comment="" />
-      <created>1712045284828</created>
+      <changelist id="e73bd0ec-3494-4dff-9a88-9c5377cafe32" name="Changes" comment="" />
+      <created>1712046849350</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1712045284828</updated>
-      <workItem from="1712045288771" duration="19000" />
+      <updated>1712046849350</updated>
+      <workItem from="1712046853700" duration="396000" />
     </task>
     <servers />
   </component>
