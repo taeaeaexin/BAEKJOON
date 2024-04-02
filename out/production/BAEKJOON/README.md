@@ -1,4 +1,0 @@
-# BAEKJOON
-BXMA25 Class4 10/10
-
-42/200 (21%)
