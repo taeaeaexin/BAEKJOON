@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f06d946f-5d73-4bd7-86d0-86839a1bcecc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap_08_GeneralMath/_01_B2_2745_baseConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chap_08_GeneralMath/_01_B2_2745_baseConversion.java" afterDir="false" />
-    </list>
+    <list default="true" id="f06d946f-5d73-4bd7-86d0-86839a1bcecc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +28,7 @@
     "Application._03_B1_10798_verticalReading.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Notebook",
     "kotlin-language-version-configured": "true",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
@@ -55,6 +52,7 @@
       <workItem from="1711982732463" duration="36000" />
       <workItem from="1711982874346" duration="82000" />
       <workItem from="1712043790086" duration="34000" />
+      <workItem from="1712044467313" duration="171000" />
     </task>
     <servers />
   </component>
