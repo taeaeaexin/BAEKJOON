@@ -1,4 +1,4 @@
-package Chap_06_TwoDimensionalArray;
+package Chap_07_TwoDimensionalArray;
 
 import java.util.Scanner;
 
