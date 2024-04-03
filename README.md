@@ -1,5 +1,6 @@
 # BAEKJOON
-BXMA25 Class4 10/10  
-BXAP02 Class7 04/07
+BXMA25 Class4 10/10 (5 solved)  
+BXAP02 Class8 04/07 (2 solved)  
+BXAP03 Class9 04/06 (7 solved)  
 
-69/110 (62.72%)
+76/110 (69.09%)
