@@ -1,8 +1,8 @@
 package Chap_09_FactorsMultiplesAndDecimals;
 
-public class _04_B2_1978_findPrimeNumbers {
-
 import java.util.Scanner;
+
+public class _04_B2_1978_findPrimeNumbers {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

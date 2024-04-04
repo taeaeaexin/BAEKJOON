@@ -24,5 +24,6 @@ public class _03_B1_9506_sumOfDivisors {
                 System.out.println();
             } else System.out.println(n + " is NOT perfect.");
         }
+
     }
 }
