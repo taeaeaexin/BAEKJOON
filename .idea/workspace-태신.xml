@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8bee9046-51b4-4158-a5a0-3c1c2109ebe0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Chap_10_RectanglesAndTriangles/_03_B3_3009_fourDot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chap_10_RectanglesAndTriangles/_04_B3_15894_mathIsPhysical.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;taeaeaexin&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="c8e4c972-a420-428c-825a-d550c77a21d8" />
+        <option name="url" value="https://github.com/taeaeaexin/BAEKJOON.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2eXQtgeqWGfIL31WGesR2BBLag0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application._01_B2_2745_baseConversion.executor": "Run",
+    "Application._01_B3_5086_multiplesAndDivisors.executor": "Run",
+    "Application._01_B5_27323_.executor": "Run",
+    "Application._01_B5_27323_rectangle.executor": "Run",
+    "Application._02_B1_11005_baseConversion2.executor": "Run",
+    "Application._02_B3_1085_escapeRectangle.executor": "Run",
+    "Application._02_B3_2501_findTheDivisors.executor": "Run",
+    "Application._03_B3_2720_laundryOwner.executor": "Run",
+    "Application._03_B3_3009_fourDot.executor": "Run",
+    "Application._04_B2_1978_findPrimeNumbers.executor": "Run",
+    "Application._04_B3_15894_mathIsPhysical.executor": "Run",
+    "Application._04_B3_2903_centerMovementAlgorithm.executor": "Run",
+    "Application._05_B2_2292_honeycomb.executor": "Run",
+    "Application._05_B2_2581_primeNumber.executor": "Run",
+    "Application._06_B1_11653_factorization.executor": "Run",
+    "Application._06_S5_1193_findTheFountain.executor": "Run",
+    "Application._07_B1_2869_snail.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Notebook",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-temurin-1.8.0_402-4caba194b151-d4a4326d" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bee9046-51b4-4158-a5a0-3c1c2109ebe0" name="Changes" comment="" />
+      <created>1712048659703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712048659703</updated>
+      <workItem from="1712048662504" duration="4143000" />
+      <workItem from="1712053242140" duration="142000" />
+      <workItem from="1712125009782" duration="11153000" />
+      <workItem from="1712197428100" duration="14000" />
+      <workItem from="1712197506708" duration="25000" />
+      <workItem from="1712197548793" duration="63000" />
+      <workItem from="1712197621927" duration="22000" />
+      <workItem from="1712197744947" duration="94000" />
+      <workItem from="1712197851665" duration="3605000" />
+      <workItem from="1712206846411" duration="14000" />
+      <workItem from="1712206959262" duration="10000" />
+      <workItem from="1712206992276" duration="1673000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
