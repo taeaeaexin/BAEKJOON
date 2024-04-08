@@ -4,9 +4,6 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Chap_01_IOandOperations" isTestSource="false" packagePrefix="BAEKJOON" />
-      <sourceFolder url="file://$MODULE_DIR$/Chap_02_ConditionalStatement" isTestSource="false" packagePrefix="BAEKJOON" />
-      <sourceFolder url="file://$MODULE_DIR$/Chap_03_Loop" isTestSource="false" packagePrefix="BAEKJOON" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
