@@ -46,7 +46,7 @@ public class _07_S5_11650_sortXY {
 */
 
         for (int i = 0; i < N; i++) {
-            System.out.println(arr[i][0] + " " + arr[i][1]);
+            System.out.println(arr[i][0] + " " + arr[i][1]); //비밀번호 486
         }
     }
 }
