@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8bee9046-51b4-4158-a5a0-3c1c2109ebe0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/_BAEKJOON_/G3_20057.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;taeaeaexin&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="c8e4c972-a420-428c-825a-d550c77a21d8" />
+        <option name="url" value="https://github.com/taeaeaexin/BAEKJOON.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2eXQtgeqWGfIL31WGesR2BBLag0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.B3_14215.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Jenga_game.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SSAFY.executor&quot;: &quot;Run&quot;,
+    &quot;Application._01_B2_2745_baseConversion.executor&quot;: &quot;Run&quot;,
+    &quot;Application._01_B2_2750_numSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application._01_B2_blackjack.executor&quot;: &quot;Run&quot;,
+    &quot;Application._01_B3_5086_multiplesAndDivisors.executor&quot;: &quot;Run&quot;,
+    &quot;Application._01_B5_24262_algorithmTime.executor&quot;: &quot;Run&quot;,
+    &quot;Application._01_B5_27323_.executor&quot;: &quot;Run&quot;,
+    &quot;Application._01_B5_27323_rectangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application._02_B1_11005_baseConversion2.executor&quot;: &quot;Run&quot;,
+    &quot;Application._02_B2_2231_disassemble.executor&quot;: &quot;Run&quot;,
+    &quot;Application._02_B2_2587_representativeValue.executor&quot;: &quot;Run&quot;,
+    &quot;Application._02_B3_1085_escapeRectangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application._02_B3_2501_findTheDivisors.executor&quot;: &quot;Run&quot;,
+    &quot;Application._02_B4_24263_algorithmTime2.executor&quot;: &quot;Run&quot;,
+    &quot;Application._03_B2_19532_math.executor&quot;: &quot;Run&quot;,
+    &quot;Application._03_B2_25305_cutline.executor&quot;: &quot;Run&quot;,
+    &quot;Application._03_B3_2720_laundryOwner.executor&quot;: &quot;Run&quot;,
+    &quot;Application._04_B2_1978_findPrimeNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application._04_B3_24265_algorithmTime4.executor&quot;: &quot;Run&quot;,
+    &quot;Application._04_B3_2903_centerMovementAlgorithm.executor&quot;: &quot;Run&quot;,
+    &quot;Application._04_S4_1018_chess.executor&quot;: &quot;Run&quot;,
+    &quot;Application._04_S5_2751_numSort2.executor&quot;: &quot;Run&quot;,
+    &quot;Application._05_B1_110898_numSort3.executor&quot;: &quot;Run&quot;,
+    &quot;Application._05_B1_110989_numSort3.executor&quot;: &quot;Run&quot;,
+    &quot;Application._05_B2_2292_honeycomb.executor&quot;: &quot;Run&quot;,
+    &quot;Application._05_B2_2581_primeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application._05_B3_24266_algorithmTime5.executor&quot;: &quot;Run&quot;,
+    &quot;Application._05_B3_9063_Earth.executor&quot;: &quot;Run&quot;,
+    &quot;Application._05_S5_1436_movie.executor&quot;: &quot;Run&quot;,
+    &quot;Application._06_B1_11653_factorization.executor&quot;: &quot;Run&quot;,
+    &quot;Application._06_B2_24267_algorithmTime6.executor&quot;: &quot;Run&quot;,
+    &quot;Application._06_B4_10101_memorizeTriangles.executor&quot;: &quot;Run&quot;,
+    &quot;Application._06_S4_2839_sugar.executor&quot;: &quot;Run&quot;,
+    &quot;Application._06_S5_1193_findTheFountain.executor&quot;: &quot;Run&quot;,
+    &quot;Application._06_S5_1427_sortInsight.executor&quot;: &quot;Run&quot;,
+    &quot;Application._07_B1_2869_snail.executor&quot;: &quot;Run&quot;,
+    &quot;Application._07_B3_5073_triangleAndThreeSides.executor&quot;: &quot;Run&quot;,
+    &quot;Application._07_S5_11650_sortXY.executor&quot;: &quot;Run&quot;,
+    &quot;Application._07_S5_24313_algorithmClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application._08_B3_14215_threeBar.executor&quot;: &quot;Run&quot;,
+    &quot;Application._08_S5_11651_sortXY2.executor&quot;: &quot;Run&quot;,
+    &quot;Application._5_B5_1008_Divide.executor&quot;: &quot;Run&quot;,
+    &quot;Application.abc.executor&quot;: &quot;Run&quot;,
+    &quot;Application.korea_B.executor&quot;: &quot;Run&quot;,
+    &quot;Application.love_korea.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.virous.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.test.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kjk06/OneDrive/바탕 화면/GitHub/BAEKJOON&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Chap_11_TimeComplexity" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-temurin-1.8.0_402-4caba194b151-d4a4326d" />
+        <option value="jdk-22-openjdk-22-4caba194b151-f504ca98" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bee9046-51b4-4158-a5a0-3c1c2109ebe0" name="Changes" comment="" />
+      <created>1712048659703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712048659703</updated>
+      <workItem from="1712048662504" duration="4143000" />
+      <workItem from="1712053242140" duration="142000" />
+      <workItem from="1712125009782" duration="11153000" />
+      <workItem from="1712197428100" duration="14000" />
+      <workItem from="1712197506708" duration="25000" />
+      <workItem from="1712197548793" duration="63000" />
+      <workItem from="1712197621927" duration="22000" />
+      <workItem from="1712197744947" duration="94000" />
+      <workItem from="1712197851665" duration="3605000" />
+      <workItem from="1712218443462" duration="12000" />
+      <workItem from="1712218621243" duration="32000" />
+      <workItem from="1712218715776" duration="7394000" />
+      <workItem from="1712365793195" duration="439000" />
+      <workItem from="1712366239028" duration="3000" />
+      <workItem from="1712366354181" duration="121000" />
+      <workItem from="1712367016929" duration="3455000" />
+      <workItem from="1712489727007" duration="655000" />
+      <workItem from="1712556579495" duration="2386000" />
+      <workItem from="1712669337419" duration="1938000" />
+      <workItem from="1712730198166" duration="3154000" />
+      <workItem from="1712809957425" duration="32000" />
+      <workItem from="1712810003717" duration="13000" />
+      <workItem from="1712810053071" duration="22000" />
+      <workItem from="1712810165168" duration="1420000" />
+      <workItem from="1712825598920" duration="18000" />
+      <workItem from="1712825667534" duration="2528000" />
+      <workItem from="1712899024306" duration="599000" />
+      <workItem from="1712927341347" duration="3261000" />
+      <workItem from="1712980735579" duration="1475000" />
+      <workItem from="1713005611098" duration="3887000" />
+      <workItem from="1713054514345" duration="604000" />
+      <workItem from="1713160012707" duration="5985000" />
+      <workItem from="1713167018461" duration="28000" />
+      <workItem from="1713239438469" duration="545000" />
+      <workItem from="1713242721814" duration="1244000" />
+      <workItem from="1713258882357" duration="5000" />
+      <workItem from="1713258896963" duration="12000" />
+      <workItem from="1713258920035" duration="238000" />
+      <workItem from="1713259219167" duration="6000" />
+      <workItem from="1713259249514" duration="6000" />
+      <workItem from="1713259267793" duration="7000" />
+      <workItem from="1713259482890" duration="5000" />
+      <workItem from="1713259531735" duration="11000" />
+      <workItem from="1713326222290" duration="500000" />
+      <workItem from="1713326781899" duration="9000" />
+      <workItem from="1713419653159" duration="44000" />
+      <workItem from="1713443817135" duration="1550000" />
+      <workItem from="1713445462896" duration="7000" />
+      <workItem from="1713445514061" duration="8000" />
+      <workItem from="1713506232010" duration="53000" />
+      <workItem from="1713506498515" duration="2535000" />
+      <workItem from="1713582773317" duration="23000" />
+      <workItem from="1714186043277" duration="26000" />
+      <workItem from="1715496623508" duration="32000" />
+      <workItem from="1715496687858" duration="448000" />
+      <workItem from="1716284727504" duration="625000" />
+      <workItem from="1719819893612" duration="35000" />
+      <workItem from="1722237998007" duration="2329000" />
+      <workItem from="1722661003166" duration="598000" />
+      <workItem from="1722661628540" duration="140000" />
+      <workItem from="1722664372745" duration="53000" />
+      <workItem from="1723513841039" duration="56000" />
+      <workItem from="1723601865981" duration="682000" />
+      <workItem from="1723606195043" duration="53000" />
+      <workItem from="1723606351624" duration="796000" />
+      <workItem from="1723618017357" duration="9000" />
+      <workItem from="1723618072139" duration="270000" />
+      <workItem from="1725171829275" duration="233000" />
+      <workItem from="1726401491292" duration="49000" />
+      <workItem from="1726401558575" duration="310000" />
+      <workItem from="1726402225483" duration="302000" />
+      <workItem from="1726402665780" duration="17000" />
+      <workItem from="1727337138259" duration="359000" />
+      <workItem from="1727337537584" duration="361000" />
+      <workItem from="1728111330348" duration="4307000" />
+      <workItem from="1728116301328" duration="3537000" />
+      <workItem from="1729074928251" duration="2324000" />
+      <workItem from="1729132994579" duration="14000" />
+      <workItem from="1729135132468" duration="1000" />
+      <workItem from="1729662071413" duration="74000" />
+      <workItem from="1729777693094" duration="1972000" />
+      <workItem from="1730254408992" duration="3161000" />
+      <workItem from="1732159346238" duration="4270000" />
+      <workItem from="1732163993292" duration="879000" />
+      <workItem from="1732250807895" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
