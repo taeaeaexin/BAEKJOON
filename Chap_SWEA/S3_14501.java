@@ -1,4 +1,4 @@
-package _BAEKJOON_;
+package Chap_SWEA;
 
 import java.util.Scanner;
 
@@ -17,13 +17,20 @@ public class S3_14501 {
         }
         result = 0;
         DFS(0, 0);
+        System.out.println(result);
     }
 
-    public static void DFS(int depth, int count){
-        if(count >= N){
-            result = Math.max(depth, result);
+    public static void DFS(int index, int money){
+        if(index >= N){
+            result = Math.max(money, result);
             return;
         }
+        if(index + schedule[index][0] <= N){
+            DFS(index + schedule[index][0], money + schedule[index][1]);
+        }else{
+            DFS(index + schedule[index][0], money);
+        }
 
+        DFS(index + 1, money);
     }
 }

@@ -1,4 +1,4 @@
-package _BAEKJOON_;
+package Chap_SWEA;
 
 import java.util.Scanner;
 
